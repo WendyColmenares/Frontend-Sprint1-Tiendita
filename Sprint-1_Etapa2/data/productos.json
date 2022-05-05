@@ -1,0 +1,99 @@
+{
+    "ofertas":[
+        {
+            "id": 1,
+            "descuento":32,
+            "imagen":"https://i.ibb.co/fHqZJjt/image-1.png",
+            "nombreProducto":"Limon con semilla",
+            "precio":39.9,
+            "medida":"kg"
+        },
+        {
+            "id": 2,
+            "descuento":32,
+            "imagen":"https://i.ibb.co/vDcJBz0/image2.png",
+            "nombreProducto":"Tomate",
+            "precio":32.9,
+            "medida":"kg"
+        },
+        {
+            "id": 3,
+            "descuento":18,
+            "imagen":"https://i.ibb.co/F6yc1Ht/image3.png",
+            "nombreProducto":"Aguacate Hass",
+            "precio":69.9,
+            "medida":"kg"
+        },
+        {
+            "id": 4,
+            "descuento":13,
+            "imagen":"https://i.ibb.co/5TfMzm9/image4.png",
+            "nombreProducto":"Nopal limpio",
+            "precio":29.9,
+            "medida":"kg"
+        },
+        {
+            "id": 5,
+            "descuento":8,
+            "imagen":"https://i.ibb.co/frt6cqj/image5.png",
+            "nombreProducto":"Tomate verde sin cascara",
+            "precio":24.9,
+            "medida":"kg"
+        },
+        {
+            "id": 6,
+            "descuento":7,
+            "imagen":"https://i.ibb.co/q59K0KM/image11.png",
+            "nombreProducto":"Coca-Cola Sin Azucar",
+            "precio":26.82,
+            "medida":"u"
+        }
+    ],
+    "populares":[
+        {
+            "id":1,
+            "imagen":"https://i.ibb.co/Vq3c1t7/image6.png",
+            "nombreProducto":"San Rafael pechuga de pavo",
+            "precio":26.82,
+            "peso":"250g",
+            "precioPorPeso":"0.25",           
+            "medida":"u"
+        },
+        {
+            "id":2,
+            "imagen":"https://i.ibb.co/P46Bksy/image7.png",
+            "nombreProducto":"Bimbo Pan Blanco Grande",
+            "precio":38.9,
+            "peso":"680g",
+            "precioPorPeso":"0.6",           
+            "medida":"u"
+        },
+        {
+            "id":3,
+            "imagen":"https://i.ibb.co/GJ6HQ9h/image8.png",
+            "nombreProducto":"Mc Cormick Mayonesa",
+            "precio":48.5,
+            "peso":"507g",
+            "precioPorPeso":"0.01",           
+            "medida":"u"
+        },
+        {
+            "id":4,
+            "imagen":"https://i.ibb.co/TWJJ7GW/image9.png",
+            "nombreProducto":"Colgate Pasta Dental Triple Familiar 2 U",
+            "precio":26.82,
+            "peso":"125ml",
+            "precioPorPeso":"0.28",           
+            "medida":"u"
+        },
+        {
+            "id":5,
+            "imagen":"https://i.ibb.co/LNP7vn7/image10.png",
+            "nombreProducto":"Huevos San Juan",
+            "precio":37.5,
+            "peso":"18 Und",
+            "precioPorPeso":"2.08",           
+            "medida":"u"
+        }
+    ]
+}
